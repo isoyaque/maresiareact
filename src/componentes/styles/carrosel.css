@@ -1,0 +1,39 @@
+.carrosel {
+    overflow: hidden;
+
+    background-color: rgb(20, 20, 20);
+
+    h3 {
+        text-align: center;
+        padding: 2rem;
+        margin: 0;
+        font-size: 3rem;
+        color: rgb(20, 20, 20);
+        filter: drop-shadow(0 0 10px rgb(25, 201, 255)) drop-shadow(1px 1px 5px white);
+
+    }
+
+    .marcas {
+        display: flex;
+        animation: correr 45S linear infinite;
+        padding-bottom: 2rem;
+
+        img {
+            height: 23vh;
+            padding: 0 .5rem;
+            border-radius: 2rem;
+        }
+    }
+}
+
+@keyframes correr {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+
+
+}

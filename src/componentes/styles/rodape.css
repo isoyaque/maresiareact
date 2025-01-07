@@ -1,0 +1,21 @@
+.rodape {
+    display: flex;
+    background-color: rgb(20, 20, 20);
+    justify-content: center;
+
+    .ladob {
+        color: white;
+        width: 50%;
+    }
+
+    .ladoa{
+        align-items: center;
+        display: flex;
+        margin-right: 1rem;
+        img{
+            height: 7vh;
+            padding: .5rem;
+
+        }
+    }
+}

@@ -1,0 +1,29 @@
+.lojas .lum,
+.lojas .ldois {
+    display: flex;
+    flex: 1;
+    background-color: rgb(26, 26, 26);
+    justify-content: center;
+    box-sizing: border-box;
+
+    h5 {
+        margin: 0;
+        padding-top: 2rem;
+        font-size: 5rem;
+        color: white;
+    }
+
+    p{
+        margin: 0;
+        padding-bottom: 15rem;
+        color: rgba(255, 255, 255, 0.8);
+        font-size: 2.5rem;
+    }
+
+    img{
+        height: 100vh;
+        padding: 1rem;
+        border-radius: 2rem;
+    }
+
+}

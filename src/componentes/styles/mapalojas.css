@@ -1,0 +1,51 @@
+iframe {
+    height: 80vh;
+    width: 100%;
+    border-radius: 2rem;    
+}
+
+.loja1,
+.loja2 {
+    display: flex;
+    background: linear-gradient( rgb(10, 10, 10) 0%, rgb(25, 25, 25) 50%, rgb(10,10,10) 100%);
+    overflow: hidden;
+
+    .mapa{
+        flex: 1;    
+        z-index: 1;
+    }
+    .texto{
+        flex: 1;
+
+        h3{
+            background-color: black;
+            color: white;
+            margin: 1rem 0;
+            text-align: center;
+            padding: 1rem;
+            font-size: 3rem;
+            box-shadow:  0 0 20px black;
+            z-index: 1;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+        p{
+            font-size: 3rem;
+            text-align: center;
+            text-decoration: underline;
+            color: white;
+            font-weight: 700;
+        }
+
+        span{
+        display: block;
+        color: white;
+            font-family: Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 2rem;
+        text-align: center;
+        padding: .5rem;
+
+        }
+    }
+}

@@ -8,14 +8,23 @@
         width: 50%;
     }
 
-    .ladoa{
+    .ladoa {
         align-items: center;
         display: flex;
         margin-right: 1rem;
-        img{
+
+        img {
             height: 7vh;
             padding: .5rem;
 
         }
     }
 }
+
+@media (max-width: 768px) {
+
+        .ladob{
+            font-size: .7rem;
+        }
+  }
+  

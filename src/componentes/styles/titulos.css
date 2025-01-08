@@ -7,3 +7,9 @@
     text-align: center;
     box-shadow: 0 0 25px black;
 }
+
+@media (max-width: 768px) {
+    .tituloS{
+        font-size: 2rem;
+    }
+}

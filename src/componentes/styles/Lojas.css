@@ -13,17 +13,52 @@
         color: white;
     }
 
-    p{
+    p {
         margin: 0;
         padding-bottom: 15rem;
         color: rgba(255, 255, 255, 0.8);
         font-size: 2.5rem;
     }
 
-    img{
+    img {
         height: 100vh;
         padding: 1rem;
         border-radius: 2rem;
     }
 
+}
+
+@media (max-width: 768px) {
+
+    .lojas .lum,
+    .lojas .ldois {
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+
+        h5{
+            font-size: 3rem;
+        }
+
+        p {
+            padding-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        img {
+            height: auto;
+            width: 90%;
+            margin: 0 auto;
+        }
+
+    }
+
+    .lojas .ldois {
+        flex-direction: column-reverse;
+    }
+
+    .lojas .lum {
+        flex-direction: column;
+
+    }
 }

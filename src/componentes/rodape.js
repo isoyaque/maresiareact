@@ -12,10 +12,10 @@ function Rodape() {
                 <img src={instalogo} /></a>
             </div>
             <div className='ladob'>
-                <p>www.maresia-bebidas.com.br | (13) 99773-9347<br />
-                    Horário de atendimento: de segunda a sexta das 07:30 às 19:00, sábados das 07:00 às 14:00.<br />
-                    J.G. DE SOUZA BEBIDAS | CNPJ: 17.325.767/0001-93<br />
-                    Av. Afonso Penna, 589 - CEP: 11075-420 - Santos/SP</p>
+                <p>www.maresia-bebidas.com.br <br /> (13) 99773-9347<br /><br />
+                    Horário de atendimento:<br />de segunda a sexta das 07:30 às 19:00<br /> sábados das 07:00 às 14:00.<br /><br />
+                    J.G. DE SOUZA BEBIDAS | CNPJ: 17.325.767/0001-93<br /><br />
+                    Av. Afonso Penna, 589 <br /> CEP: 11075-420 - Santos/SP</p>
             </div>
         </div>
     )

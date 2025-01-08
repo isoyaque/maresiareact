@@ -18,3 +18,13 @@
     color: white;
     box-shadow:  0 0 10px rgb(69, 255, 240);
 }
+
+
+@media (max-width: 768px) {
+
+    .btn{
+        font-size: 1.5rem;
+        margin:  .5rem;
+    }
+  }
+  

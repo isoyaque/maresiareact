@@ -6,7 +6,7 @@ function Button({ nome, link }) {
     };
 
     return (
-        <div>
+        <div className='container-btn'>
             <button className='btn' onClick={handleRedirect}>
                 {nome}
             </button>

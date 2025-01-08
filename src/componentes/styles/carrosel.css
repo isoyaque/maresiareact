@@ -1,6 +1,5 @@
 .carrosel {
     overflow: hidden;
-
     background-color: rgb(20, 20, 20);
 
     h3 {
@@ -37,3 +36,17 @@
 
 
 }
+
+@media (max-width: 768px) {
+
+    .carrosel{
+        h3{
+            font-size: 2rem;
+        }
+
+        .marcas{
+            animation: correr 20s linear infinite;
+        }
+    }
+}
+  

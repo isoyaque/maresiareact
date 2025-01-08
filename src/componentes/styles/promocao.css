@@ -14,31 +14,50 @@
         padding-bottom: .5rem;
     }
 
-    input{
+    input {
         width: 50rem;
         font-size: 1.5rem;
         padding: 1rem;
         border: none;
-        background-color:  rgb(40, 40, 40);
+        background-color: rgb(40, 40, 40);
         border-radius: 1rem 1rem 0 0;
         color: white;
         margin-bottom: 5rem;
         margin-right: 1rem;
     }
 
-    button{
+    button {
         font-size: 1.5rem;
         padding: 1rem 4rem;
         cursor: pointer;
         border-radius: .5rem;
         border: none;
-        background-color:rgb(37,211,102);
+        background-color: rgb(37, 211, 102);
         color: rgb(0, 58, 51);
         transition: .5s;
     }
 
-    button:hover{
-        background-color: rgb(18,140,126);
-        color: rgb(220,248,198);
+    button:hover {
+        background-color: rgb(18, 140, 126);
+        color: rgb(220, 248, 198);
     }
+}
+
+@media (max-width: 768px) {
+
+    .promocao {
+        input {
+            width: 90%;
+            margin-bottom: .5rem;
+        }
+
+        .inputs{
+            width: 100%;
+            justify-content: center;
+            display: flex;
+            flex-direction: column;
+        }
+    }
+
+
 }

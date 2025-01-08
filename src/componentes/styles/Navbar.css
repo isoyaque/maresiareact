@@ -57,6 +57,35 @@ nav {
     }
 }
 
-.espacamento{
+.espacamento {
     height: 15vh;
+}
+
+
+@media (max-width: 768px) {
+
+    nav {
+        flex-direction: column;
+        height: 35vh;
+
+
+
+        ul {
+
+            li {
+                display: flex;
+                flex-direction: column;
+
+                i {
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+    .espacamento {
+        height: 35vh;
+    }
+
+
 }

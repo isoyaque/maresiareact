@@ -12,7 +12,7 @@ function Navbar() {
 
 
 
-                <Link to='/'><img src={Logo} /></Link>
+                <Link to='/'><img src={Logo} alt=" " /></Link>
                 <ul>
                     <Link to='/'><li><i class="fi fi-rr-home"></i> Home</li></Link>
                     <Link to='/chegar'><li><i class="fi fi-rs-marker"></i> Como chegar</li></Link>

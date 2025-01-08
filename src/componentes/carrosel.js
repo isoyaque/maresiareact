@@ -13,78 +13,78 @@ function Carrosel() {
         <div className='carrosel'>
             <h3>Trabalhamos com as melhores marcas!!</h3>
             <div className='marcas'>
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
-                <img src={Marca1} />
-                <img src={Marca2} />
-                <img src={Marca3} />
-                <img src={Marca4} />
-                <img src={Marca5} />
-                <img src={Marca6} />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
+                <img src={Marca1} alt ='logo-marca' />
+                <img src={Marca2} alt ='logo-marca' />
+                <img src={Marca3} alt ='logo-marca' />
+                <img src={Marca4} alt ='logo-marca' />
+                <img src={Marca5} alt ='logo-marca' />
+                <img src={Marca6} alt ='logo-marca' />
             </div>
         </div>
     )

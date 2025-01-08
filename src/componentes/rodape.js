@@ -7,9 +7,9 @@ function Rodape() {
         <div className='rodape'>
             <div className='ladoa'>
                 <a href='https://api.whatsapp.com/send?phone=5513997739347'>
-                <img src={zaplogo} /> </a>
+                <img src={zaplogo}  alt=' '/> </a>
                 <a href='https://www.instagram.com/maresia_bebidas/'>
-                <img src={instalogo} /></a>
+                <img src={instalogo} alt=' ' /></a>
             </div>
             <div className='ladob'>
                 <p>www.maresia-bebidas.com.br <br /> (13) 99773-9347<br /><br />

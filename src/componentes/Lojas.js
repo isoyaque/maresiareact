@@ -15,11 +15,11 @@ function Lojas() {
                     <Button nome='Chamar agora' link='https://api.whatsapp.com/send?phone=5513997739347&text=Ol%C3%A1,%20vim%20do%20site,%20e%20gostaria%20de%20ser%20atendido(a)%20por%20aqui!!' />
                     <Button nome='Botar na rota' link='https://maps.app.goo.gl/8yJFXVcyCbUZLAFY7' />
                 </div>
-                <div className='ladob'><img src={imgadega} /></div>
+                <div className='ladob'><img src={imgadega} alt='Fachada adega' /></div>
             </div>
 
             <div className='ldois'>
-                <div className='ladoa'><img src={imgdist} /></div>
+                <div className='ladoa'><img src={imgdist} alt='fachada distribuidora' /></div>
                 <div className='ladob'>
                     <h5> Loja Rodrigues Alvez</h5>
                     <p>Somente entregas</p>

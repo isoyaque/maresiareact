@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03d4d04e.css",
+    "main.js": "/static/js/main.92e34081.js",
+    "static/js/488.834e9b9a.chunk.js": "/static/js/488.834e9b9a.chunk.js",
+    "static/media/amstel.png": "/static/media/amstel.e8b4bca31f99bcdb4eba.png",
+    "static/media/coca.png": "/static/media/coca.2e21079ab3ab08aee046.png",
+    "static/media/caminhão.jpeg": "/static/media/caminhão.9f2812b7dac0311c6770.jpeg",
+    "static/media/Instagram_icon.png.webp": "/static/media/Instagram_icon.png.1d6d0317700c4f0c95b7.webp",
+    "static/media/ambev.png": "/static/media/ambev.2be15a4a24a451375a6c.png",
+    "static/media/logo.png": "/static/media/logo.dcd2c957c2578b4e4218.png",
+    "static/media/distribuidora.jpeg": "/static/media/distribuidora.fdb7905e3e40422b5cf5.jpeg",
+    "static/media/monster.jpg": "/static/media/monster.1b2374c4abec2cd265dc.jpg",
+    "static/media/heineken.png": "/static/media/heineken.0236c63b0f6a27f042d4.png",
+    "static/media/whatsappicon.png": "/static/media/whatsappicon.504b7e12feadd7802d98.png",
+    "static/media/ADEGA.jpeg": "/static/media/ADEGA.2817f8ed4bfd42031bc6.jpeg",
+    "index.html": "/index.html",
+    "main.03d4d04e.css.map": "/static/css/main.03d4d04e.css.map",
+    "main.92e34081.js.map": "/static/js/main.92e34081.js.map",
+    "488.834e9b9a.chunk.js.map": "/static/js/488.834e9b9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d4d04e.css",
+    "static/js/main.92e34081.js"
+  ]
+}

@@ -8,7 +8,7 @@ function Promocao() {
         if (nome) {
             window.location.href = `https://api.whatsapp.com/send?phone=5513997739347&text=Ol%C3%A1,%20eu%20me%20chamo%20${nome}%20e%20gostaria%20de%20receber%20suas%20promo%C3%A7%C3%B5es!!`;
         } else {
-            window.location.href = "https://api.whatsapp.com/send?phone=5513998033131&text=Ol%C3%A1,%20vim%20do%20site%20e%20gostaria%20de%20receber%20as%20promo%C3%A7%C3%B5es!!";
+            window.location.href = "https://api.whatsapp.com/send?phone=5513997739347&text=Ol%C3%A1,%20vim%20do%20site%20e%20gostaria%20de%20receber%20as%20promo%C3%A7%C3%B5es!!";
         }
     }
 

@@ -1,5 +1,4 @@
 .faixa {
-    padding: 0;
     margin: 0;
     background-color: black;
     padding: .5rem;
@@ -34,4 +33,16 @@
     100% {
         transform: translateX(100%);
     }
+}
+
+@media (max-width: 768px) {
+    .faixa {
+        padding: 1rem;
+
+        p {
+            font-size: 1rem;
+        }
+    }
+
+
 }
